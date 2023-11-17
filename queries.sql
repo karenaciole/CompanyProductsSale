@@ -81,3 +81,11 @@ FROM
    FatoDetalhes_DadosModelagem 
 
 -- Média de compras que um cliente faz
+SELECT
+  C.clienteid,
+  ROUND(AVG(D.quantidade)) AS media_compras_por_cliente
+FROM FatoDetalhes_DadosModelagem D
+LEFT JOIN FatoCabecalho_DadosModelagem C ON 
+  D.cupomid = C.cupomid
+GROUP BY 
+  C.clienteid
