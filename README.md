@@ -5,3 +5,6 @@
 - Foi feito um pequeno processo de ETL para padronizar os dados recebidos nos arquivos e carregá-los no BD.
 - O arquivo `refera_sqlite.db` corresponde ao banco de dados criado com os arquivos fornecidos.
 - No arquivo `queries.sql` estão as consultas das respectivas perguntas.
+
+
+![image](https://github.com/karenaciole/refera/assets/96853561/ccfba7fe-4682-491e-a36d-4a2f5718b886)
