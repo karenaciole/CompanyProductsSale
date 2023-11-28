@@ -1,0 +1,5 @@
+Essa dashboard foi criada através do entendimento dos dados recebidos. O intuito foi facilitar as decisões que serão tomadas por meio de uma visão mais clara dos indicadores baixo. 
+
+Os indicadores que escolhi foram com base na importância deles para os objetivos da empresa. Dessa forma, escolhi os que demonstram o desempenho da empresa, como a quantidade de produtos vendidos por categoria e também por cliente, além do lucro obtido pela empresa a cada ano. Isso permite que seja possível analisar de forma preditiva e oferecer insights sobre possíveis tendências. 
+
+A estruturação dos gráficos foi pensada para ser de fácil compreensão. Essa organização permite que seja possível a visualização de maneira rápida dos gráficos contidos. Em resumo, cada escolha feita durante o desenvolvimento desta dashboard foi orientada pela necessidade de fornecer informações relevantes para impulsionar o sucesso do negócio.
