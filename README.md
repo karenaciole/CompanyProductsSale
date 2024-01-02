@@ -1,4 +1,4 @@
-## Desafio técnico de SQL | Refera 
+## Análises das vendas de uma empresa varejista
 
 ### 
 - Para o desafio foi utilizado o **SQLite**.
